@@ -1,6 +1,6 @@
 ## Discord Bot
 
-A personalized discord bot developer using Discord Developer Profile that can be seamlessly integrated into any discord server that you own and acts like a personal chatbot to know more about Hewlett Packard Enterprise (HPE)
+A personalized discord bot developed using Discord Developer Profile and Golang that can be seamlessly integrated into any discord server that you own and acts like a personal chatbot to know more about Hewlett Packard Enterprise (HPE)
 
 ## Techstacks and Dependencies Used:
 
